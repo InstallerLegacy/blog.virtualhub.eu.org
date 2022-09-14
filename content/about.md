@@ -29,6 +29,5 @@ Instead of using Windows to write the tutorials and make the videos for VirtualH
 
 I am also introducing several other websites which will be available soon:
 
-- [VirtualHub Blog](https://blog.virtualhub.eu.org) - The story about VirtualHub.
 - [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org) - Screenshots of old Software.
 - [VirtualHub DOSBox-X](https://dosbox-x.virtualhub.eu.org) - Installing old software directly on DOSBox-X.
