@@ -4,6 +4,8 @@ date: 2022-08-26T19:00:00+05:30
 draft: false
 tags: ["old"]
 categories: ["NeoVirtualHub"]
+toc:
+  enable: false
 ---
 
 Do not worry! I am not going to start the VirtualHub website from scratch once again. Instead, this post is about the Operating System I use. I plan to start blogging about everything I do related to VirtualHub from start, from installing the operating system.

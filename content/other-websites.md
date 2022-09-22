@@ -6,6 +6,9 @@ description: "Other websites of VirtualHub ecosystem"
 images: []
 comment:
   enable: false
+
+toc:
+  enable: false
 ---
 
 {{< admonition tip "VirtualHub" true >}}

@@ -4,6 +4,8 @@ date: 2022-08-12T17:56:00+05:30
 draft: false
 tags: ["old"]
 categories: ["NeoVirtualhub"]
+toc:
+  enable: false
 ---
 
 <br>

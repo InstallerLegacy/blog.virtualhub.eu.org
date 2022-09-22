@@ -4,6 +4,8 @@ date: 2022-08-11T19:00:00+05:30
 draft: false
 tags: ["Welcome"]
 categories: ["Welcome"]
+toc:
+  enable: false
 ---
 
 Welcome to the VirtualHub Blog. This blog has been created to record my continued struggle for finding a perfect CMS/SSG for the VirtualHub website. Until now, I have used WordPress, CloudCanon, and Publii. None of them proved to be the tool I have dreamt of.

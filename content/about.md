@@ -6,6 +6,9 @@ description: "About VirtualHub Blog"
 images: []
 comment:
   enable: false
+
+toc:
+  enable: false
 ---
 
 <style>
