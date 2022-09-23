@@ -20,7 +20,7 @@ I decided to start my own blog and started with [Blogger](https://www.blogger.co
 
 But like everyone I soon grew tired of Blogger's limits. I started a new website this time using [WordPress](https://wordpress.org). It is available at <https://legacyinstaller.pcriot.com>.
 
-{{< image src="/images/2022/September/22/LegacyInstaller.webp" alt="Legacy OS Website" >}}
+{{< image src="/images/2022/September/22/LegacyInstaller.webp" alt="Legacy Installer Website" >}}
 
 ## VirtualHub
 
@@ -28,7 +28,7 @@ But like everyone I soon grew tired of Blogger's limits. I started a new website
 
 But again, I found WordPress too slow for my liking. I started to search for alternatives and found [Publii](https://getpublii.com). The site I created using it is now available at <https://old.virtualhub.eu.org>. It was fast in writing and editing and the website also was very fast, but the building step took a long time even with only 30 posts and it was nowhere close to my purpose.
 
-{{< image src="/images/2022/September/22/OldVirtualHub.webp" alt="Legacy OS Website" >}}
+{{< image src="/images/2022/September/22/OldVirtualHub.webp" alt="Old VirtualHub Website" >}}
 
 Also, this version of VirtualHub was to complement the Legacy Installer website and not replace it. To know more about what I planned, see its [About page](https://old.virtualhub.eu.org/about-virtualhub/).
 
@@ -36,7 +36,7 @@ Also, this version of VirtualHub was to complement the Legacy Installer website 
 
 The next alternative: Jekyll. It was fast. It built fast. I found [a theme that met my expectations](/i-don-t-like-this-theme/). So, I started to port the VirtualHub website to Jekyll. You can view my work here - <https://neo.virtualhub.eu.org>.
 
-{{< image src="/images/2022/September/22/NeoVirtualHub.webp" alt="Legacy OS Website" >}}
+{{< image src="/images/2022/September/22/NeoVirtualHub.webp" alt="NeoVirtualHub Website" >}}
 
 Then this happened - [A fresh start](/a-fresh-start/). It was not a success, but I got a new idea.
 
