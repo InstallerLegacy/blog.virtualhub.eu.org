@@ -68,18 +68,11 @@ Surprised to see the last one? I told you in the beginning, this redesign is a p
 
 This is not all. I have also created youtube channels for VirtualHub and VirtualHub Setup. The youtube channels for VirtualHub Screencasts and VirtualHub DOSBox-X will come soon.
 
-- [VirtualHub Youtube Channel](https://www.youtube.com/channel/UCdQnyQjbDaU2iKYqjZ10jDw)
-- [VirtualHub Setup Youtube Channel](https://www.youtube.com/channel/UCom2ln9Fh2OaH65o6tAVvRw)
+- [VirtualHub Youtube Channel](https://www.youtube.com/@Virtua1Hub)
+- [VirtualHub Setup Youtube Channel](https://www.youtube.com/@virtualhubsetup)
 
-Now every tutorial will be accompanied by a video. Some of the above websites are also hosted on [IPFS](https://ipfs.tech). If you have an IPFS-friendly browser like [Brave](https://brave.com/), you will see prompts to open the website on IPFS (if you enabled that option). Note that the websites will only work if you use a [subdomain gateway](https://docs.ipfs.tech/how-to/address-ipfs-on-web/#subdomain-gateway). The following links should work:
+Now every tutorial will be accompanied by a video.
 
-- [VirtualHub IPFS](https://www-virtualhub-eu-org.ipns.dweb.link/)
-- [VirtualHub Setup IPFS](https://setup-virtualhub-eu-org.ipns.dweb.link/)
-- [VirtualHub Screenshots IPFS](https://screenshots-virtualhub-eu-org.ipns.dweb.link/)
-- [VirtualHub Blog IPFS](https://blog-virtualhub-eu-org.ipns.dweb.link/)
-
-Note that VirtualHub DOSBox-X is not hosted on IPFS because it uses a rather complex but fast theme that requires both node and Hugo.
-
-I will also use IPFS and [Storj](https://www.storj.io/) to deliver large files to you.
+I will use [Storj](https://www.storj.io/) to deliver large files to you.
 
 Stay tuned for more stories about VirtualHub!
